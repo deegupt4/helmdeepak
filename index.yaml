@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https://github.com/deegupt4/helmdeepak/nginx-0.1.0.tgz
+    - https://deegupt4.github.io/helmdeepak/nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2022-07-18T06:42:39.87120529Z"
